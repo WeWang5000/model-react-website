@@ -17,19 +17,21 @@
 }
 
 .services {
-  background-image: url('/images/img-2.jpg');
+  background-image: url('/images/Tattoo-Designs.jpg.jpeg');
   background-position: center;
-  background-size: cover;
+  background-size: fill;
   background-repeat: no-repeat;
+  background-size: 1200px 900px;
   color: #fff;
   font-size: 100px;
 }
 
 .products {
-  background-image: url('/images/img-1.jpg');
+  background-image: url('/images/printing.jpg');
   background-position: center;
   background-size: fill;
   background-repeat: no-repeat;
+  
   color: #fff;
   font-size: 100px;
 }
